@@ -1,4 +1,4 @@
-# <h1 align="center">Crime Analysis in India (2020-2024) - Excel Dashboard 📊🔍</h1>
+# <h1 align="center">INDIAN CRIME ANALYSIS (2020-2024) - Excel Dashboard 📊🔍</h1>
 
 # Introduction 🌟
 
